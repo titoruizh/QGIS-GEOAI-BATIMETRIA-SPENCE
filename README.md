@@ -55,11 +55,11 @@ PyQGIS (QGIS 3.28–4.x) · Python · GDAL · NumPy/SciPy · Shapely · PyTorch 
 <!-- TODO: agregar captura del wizard con datos sintéticos -->
 <img width="1819" height="923" alt="image" src="https://github.com/user-attachments/assets/de131b7e-0465-47d8-9e16-ffae4fa6ac69" />
 
-<img width="1477" height="653" alt="image" src="https://github.com/user-attachments/assets/d9534961-00cc-459a-837b-fd467abbefbd" />
 
 
 <!-- TODO: agregar captura de máscara de pelo de agua sobre ortomosaico sintético -->
-![Uploading image.png…]()
+<img width="1197" height="641" alt="image" src="https://github.com/user-attachments/assets/d7cf1a91-4c1d-4c20-a7a9-f7304dbb959b" />
+
 
 
 ## Autor
