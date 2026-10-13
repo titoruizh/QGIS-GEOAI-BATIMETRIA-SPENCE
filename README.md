@@ -1,4 +1,4 @@
-# bathymetry-geoai-qgis
+# QGIS-GEOAI-BATIMETRIA-SPENCE
 
 **Plugin QGIS para batimetría de piscinas con GeoAI (U-Net/ResNet34)**
 
