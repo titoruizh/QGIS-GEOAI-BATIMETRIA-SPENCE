@@ -53,9 +53,14 @@ PyQGIS (QGIS 3.28–4.x) · Python · GDAL · NumPy/SciPy · Shapely · PyTorch 
 
 ## Capturas
 <!-- TODO: agregar captura del wizard con datos sintéticos -->
-![Wizard del plugin](docs/img/wizard.png)
+<img width="1819" height="923" alt="image" src="https://github.com/user-attachments/assets/de131b7e-0465-47d8-9e16-ffae4fa6ac69" />
+
+<img width="1477" height="653" alt="image" src="https://github.com/user-attachments/assets/d9534961-00cc-459a-837b-fd467abbefbd" />
+
+
 <!-- TODO: agregar captura de máscara de pelo de agua sobre ortomosaico sintético -->
-![Segmentación de pelo de agua](docs/img/waterline.png)
+![Uploading image.png…]()
+
 
 ## Autor
 Tito Ruiz Haros · [github.com/titoruizh](https://github.com/titoruizh)
